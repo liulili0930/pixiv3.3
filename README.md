@@ -100,7 +100,7 @@ graph TD
 如有问题，可通过以下方式联系：
 - GitHub Issues
 - 内置AI客服系统
-- Email: your.email@example.com
+- Email: lqz090930@qq.com
 
 ---
 
