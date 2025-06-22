@@ -1,5 +1,4 @@
-# pixiv3.3
-# Pixiv 图片爬取工具
+# Pixiv 图片爬取工具(3.3版本)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.4+-green.svg)
